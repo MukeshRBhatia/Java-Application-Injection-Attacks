@@ -11,4 +11,5 @@ Prereq - Java version 20, Maven, Docker, IntelliJ, Burpsuite
 - Right clicked the above project in IntelliJ and added a module 'web-login'
 - Add parent pom(create in step 1) in pom.xml
 - Added dependencies
-- A
+- Add a folder 'src/main/resources/templates/'
+- Add 6 thymeleaf files
