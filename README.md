@@ -13,3 +13,4 @@ Prereq - Java version 20, Maven, Docker, IntelliJ, Burpsuite
 - Added dependencies
 - Add a folder 'src/main/resources/templates/'
 - Add 6 thymeleaf files
+- Add service classes, apis and spring security controllers
